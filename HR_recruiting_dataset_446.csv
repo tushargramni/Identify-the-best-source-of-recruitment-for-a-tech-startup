@@ -1,0 +1,447 @@
+attrition,performance_rating,sales_quota_pct,recruiting_source
+0,3,1.88457,nan
+0,2,1.9133,Referral
+0,3,2.385814,Applied Online
+0,4,1.550689,Applied Online
+0,4,1.800711,nan
+0,3,1.701627,Search Firm
+0,3,1.307189,Referral
+0,4,1.328036,others
+0,2,0.786715,nan
+1,2,1.584404,Applied Online
+1,2,2.149283,Search Firm
+1,2,2.215644,Campus
+0,3,0.278978,Campus
+0,3,2.363439,nan
+0,4,0.665867,nan
+1,3,1.495993,others
+0,2,0.798377,Applied Online
+1,2,1.102256,Campus
+0,3,0.155589,Campus
+0,4,1.072897,nan
+0,3,0.692428,others
+0,3,0.643086,Campus
+1,3,0.767355,Search Firm
+1,3,1.262869,Applied Online
+0,3,1.323503,nan
+0,2,1.1881,others
+0,3,0.140881,nan
+0,2,1.305219,Campus
+0,2,0.877649,others
+0,4,0.945144,Applied Online
+1,2,1.874278,Applied Online
+0,2,0.500885,Referral
+0,2,1.378901,others
+0,4,2.317124,Applied Online
+1,2,2.445853,Search Firm
+0,3,2.199471,others
+0,2,1.099704,others
+0,3,0.457195,others
+1,2,2.010168,Referral
+1,2,1.11849,Search Firm
+0,2,1.160107,Applied Online
+0,3,0.461778,nan
+0,3,2.128847,nan
+0,3,0.101855,others
+0,3,1.307151,nan
+1,2,0.085855,Referral
+0,3,1.071401,nan
+0,2,1.803786,Applied Online
+0,3,0.769887,Applied Online
+0,3,0.278929,others
+0,3,2.167974,nan
+0,4,1.854138,Campus
+0,2,2.244487,Referral
+0,4,0.810195,nan
+0,2,0.219132,Applied Online
+1,3,0.369019,Applied Online
+0,2,2.149236,nan
+0,3,1.996057,Applied Online
+0,3,0.350149,nan
+0,3,2.234818,Campus
+0,3,1.060076,Campus
+1,3,0.197123,Applied Online
+0,3,0.951665,nan
+0,4,0.75622,nan
+0,4,1.782876,Applied Online
+0,3,2.438291,Applied Online
+0,2,2.383978,others
+1,4,1.517394,nan
+0,2,0.961471,nan
+0,3,0.072592,nan
+0,4,2.354732,Search Firm
+0,4,0.194115,Campus
+0,2,1.970713,Campus
+0,4,2.207941,Campus
+0,2,0.778836,others
+0,4,1.311171,others
+0,2,1.231076,nan
+1,2,1.694862,Search Firm
+0,4,2.439712,nan
+0,3,0.100053,Search Firm
+0,2,1.76474,nan
+0,3,2.488384,Applied Online
+0,3,0.288318,Applied Online
+0,3,2.104514,Applied Online
+0,3,2.22304,others
+0,3,2.278673,Referral
+0,3,0.367463,Campus
+1,3,2.114709,others
+1,2,0.603241,Applied Online
+1,4,1.473592,Applied Online
+0,3,1.845348,Applied Online
+0,3,0.372105,Applied Online
+1,2,1.437967,Search Firm
+0,3,1.749657,Referral
+0,2,1.713147,nan
+0,3,2.102891,Referral
+0,2,0.141459,nan
+0,2,0.627494,Search Firm
+0,2,2.455495,Applied Online
+1,3,0.670289,Campus
+1,3,1.780511,Applied Online
+0,3,1.406684,nan
+0,4,0.807308,others
+1,3,1.97261,Applied Online
+1,3,0.663539,Referral
+0,2,1.126173,Applied Online
+1,3,0.763328,nan
+0,3,2.415604,others
+1,3,2.45591,nan
+0,2,2.111427,nan
+0,2,2.004807,Referral
+0,2,1.609905,others
+0,3,2.107724,Campus
+0,3,0.425014,Applied Online
+1,4,0.721466,Applied Online
+0,3,2.33414,Applied Online
+0,3,2.427087,nan
+1,3,2.217561,Applied Online
+0,3,2.277595,nan
+0,3,0.916772,nan
+0,2,1.558729,Applied Online
+0,3,0.696202,nan
+1,2,0.499179,Search Firm
+0,2,1.112515,Applied Online
+0,3,1.224894,nan
+0,3,0.200506,Applied Online
+1,3,0.143767,others
+0,4,2.0117,Applied Online
+1,4,1.032148,Applied Online
+1,3,0.394467,Applied Online
+1,4,0.589358,Applied Online
+0,3,1.333481,nan
+0,2,1.740565,others
+0,2,0.18501,Applied Online
+0,3,2.419124,others
+0,2,1.034366,Applied Online
+0,3,0.062962,Applied Online
+0,4,2.464685,Applied Online
+0,4,1.653766,Search Firm
+0,3,0.870252,nan
+1,2,0.230085,Applied Online
+1,3,0.572617,Applied Online
+0,3,1.841018,Applied Online
+0,2,1.26475,others
+0,3,1.120952,nan
+1,3,1.403865,Campus
+0,2,1.868997,Applied Online
+1,2,0.060799,Applied Online
+0,2,1.394761,Applied Online
+1,3,1.616384,Applied Online
+1,3,0.429293,Applied Online
+0,4,0.531772,nan
+0,2,0.57118,nan
+0,3,2.050101,others
+1,2,2.459392,Campus
+0,3,0.12278,nan
+0,2,0.160362,nan
+0,2,0.809396,Applied Online
+0,4,2.444607,Campus
+0,2,1.806745,nan
+0,3,0.121625,Referral
+1,2,0.852198,nan
+0,2,2.045166,nan
+0,2,0.726337,Applied Online
+0,3,0.905774,Referral
+0,3,0.712052,Campus
+1,4,0.964525,nan
+0,4,2.021694,others
+0,4,1.959903,nan
+0,2,0.445062,nan
+0,2,2.024008,others
+1,4,1.314014,nan
+0,4,2.043277,nan
+1,3,0.089713,Campus
+0,3,0.112965,Applied Online
+0,3,2.49529,Campus
+0,2,2.42396,Applied Online
+0,3,1.900747,others
+0,2,1.526472,nan
+0,3,0.636224,Applied Online
+0,3,1.495272,Applied Online
+0,3,1.480386,nan
+0,3,1.643067,Applied Online
+0,3,0.080284,Referral
+0,4,1.425764,Applied Online
+0,4,0.553477,others
+0,2,2.061429,others
+1,3,2.376789,Applied Online
+1,4,1.634478,Search Firm
+0,2,1.937279,Campus
+0,3,2.275698,nan
+0,3,1.616464,nan
+1,3,0.99832,Applied Online
+0,4,1.492517,others
+1,4,0.893097,Applied Online
+1,3,1.561907,others
+1,4,0.119226,Referral
+0,2,0.774329,Referral
+0,3,2.303874,nan
+0,3,2.496666,others
+0,3,1.35464,nan
+1,4,1.4937,others
+0,3,0.860878,Applied Online
+0,2,2.425736,others
+0,4,1.809665,nan
+0,4,1.53206,nan
+0,3,1.10153,nan
+0,2,1.002208,nan
+0,3,2.371335,nan
+0,3,0.766185,Applied Online
+0,3,0.065551,Applied Online
+0,3,0.25197,nan
+0,2,1.908632,nan
+0,4,2.272849,Applied Online
+1,3,0.691199,Referral
+1,4,2.396189,Campus
+0,2,1.221021,Applied Online
+1,3,1.816183,Applied Online
+0,2,0.086999,nan
+0,2,0.588161,Referral
+0,4,1.841763,nan
+0,3,1.791497,nan
+0,3,0.998499,Applied Online
+0,3,2.475794,Applied Online
+1,3,1.224374,Applied Online
+0,3,2.254251,Applied Online
+0,3,0.485529,Applied Online
+0,4,2.246223,Applied Online
+0,4,0.845177,nan
+0,4,2.396701,others
+0,3,2.296785,Applied Online
+0,3,1.018739,nan
+0,3,1.746523,Referral
+1,3,0.84153,others
+1,2,1.345997,nan
+0,3,1.767874,nan
+1,2,1.625807,Search Firm
+0,2,0.396095,Referral
+0,2,1.174336,nan
+1,3,0.848233,Campus
+0,3,0.12116,Campus
+0,2,0.271594,others
+0,3,1.213425,nan
+0,3,0.273178,nan
+0,3,1.708632,Applied Online
+0,2,0.791327,Applied Online
+0,4,1.74523,nan
+0,3,0.473467,Applied Online
+0,3,1.313192,Applied Online
+0,3,0.283214,Applied Online
+1,3,1.584005,Campus
+0,4,0.949992,Applied Online
+0,4,1.437364,others
+1,2,1.839096,Referral
+0,4,1.113883,Campus
+0,3,0.639326,Applied Online
+0,3,1.137993,others
+0,2,0.951893,Campus
+0,4,0.750746,Applied Online
+1,2,1.25447,nan
+0,2,1.037686,others
+0,2,0.682024,Campus
+1,3,2.00011,Referral
+1,2,2.307214,Applied Online
+0,3,2.083814,Applied Online
+0,2,0.763817,others
+1,4,0.356081,Applied Online
+0,3,2.224208,Referral
+1,3,1.911529,nan
+0,3,0.707424,Applied Online
+0,4,2.368124,nan
+1,3,0.148782,others
+0,2,2.239149,Applied Online
+0,4,2.479452,Applied Online
+0,3,0.92372,Applied Online
+0,3,0.674899,others
+0,3,1.914323,nan
+0,4,2.244575,Applied Online
+0,3,0.652367,nan
+0,2,0.938546,nan
+0,4,1.791488,Campus
+1,2,0.717106,Referral
+1,3,0.648834,nan
+1,3,1.21484,others
+1,3,0.128122,Applied Online
+1,3,0.124231,Applied Online
+0,2,0.060115,nan
+0,3,0.865495,Applied Online
+1,4,2.039155,Referral
+0,3,0.136485,others
+0,3,0.577076,Applied Online
+0,4,2.46007,nan
+1,2,0.262103,Referral
+0,4,1.943254,nan
+0,3,0.978934,Applied Online
+0,2,2.218879,Applied Online
+0,3,1.85407,nan
+0,2,0.319575,nan
+1,3,0.706237,Applied Online
+1,3,1.486228,nan
+0,4,0.257323,others
+0,3,0.558249,Campus
+0,2,1.855964,Applied Online
+0,4,1.409871,Referral
+0,3,0.675161,nan
+0,3,0.062871,nan
+0,2,1.125648,Campus
+1,2,0.528108,Applied Online
+0,4,0.553516,nan
+1,4,2.403815,Applied Online
+0,3,1.904247,Referral
+1,3,1.167674,Applied Online
+0,4,2.331389,Applied Online
+0,3,1.372393,others
+0,2,0.312771,others
+0,4,0.637276,nan
+0,3,1.115801,Applied Online
+0,3,1.959538,nan
+0,3,1.939991,nan
+0,4,2.103676,others
+0,3,1.468606,Campus
+0,4,0.602421,Referral
+0,2,1.742638,nan
+0,3,0.506914,nan
+0,4,0.990544,nan
+0,4,0.08402,Applied Online
+1,3,0.819347,others
+0,2,0.835297,Applied Online
+0,3,2.060498,Referral
+1,2,2.289387,Campus
+0,3,0.800558,Referral
+0,2,0.681996,Referral
+0,3,1.471156,Referral
+0,3,1.641189,others
+0,2,1.625529,others
+0,4,1.419689,Applied Online
+0,4,0.519792,Applied Online
+0,3,2.271347,others
+0,4,0.54835,Applied Online
+0,2,1.995016,nan
+1,3,1.973998,Referral
+1,3,1.202464,Campus
+0,3,0.484046,Applied Online
+0,2,0.240336,nan
+0,4,2.429651,others
+0,4,2.426164,Applied Online
+0,4,0.859189,nan
+0,2,0.388187,others
+0,2,2.26328,Campus
+0,3,2.269319,Applied Online
+0,3,1.04524,nan
+0,2,1.391117,Applied Online
+0,2,2.47714,nan
+0,3,1.937695,nan
+1,4,0.379867,Campus
+1,2,1.784919,Applied Online
+1,3,1.23006,Referral
+0,3,2.182999,others
+0,2,2.181504,Campus
+0,3,2.004405,others
+0,4,0.515658,Applied Online
+0,3,1.827942,Applied Online
+1,4,1.123226,others
+0,3,2.421471,nan
+1,3,1.681918,Applied Online
+0,4,0.455795,Campus
+0,3,0.326312,others
+0,3,0.66474,others
+0,3,1.457541,nan
+0,2,1.68287,Campus
+0,2,0.499314,nan
+1,2,1.2731,nan
+0,3,0.802206,Referral
+0,3,1.57912,nan
+0,3,1.631579,Campus
+1,2,1.294934,Referral
+0,4,1.626946,nan
+0,3,1.312631,Applied Online
+0,3,1.938011,nan
+1,4,1.996862,Referral
+1,3,0.21851,Applied Online
+1,4,0.135675,Campus
+0,2,1.136491,Applied Online
+0,4,1.320953,others
+0,3,0.525985,Referral
+0,2,2.052089,Applied Online
+0,4,2.079544,Applied Online
+0,3,1.304412,others
+0,3,2.304587,Applied Online
+0,3,1.148916,Campus
+0,3,0.141339,others
+0,3,0.695625,nan
+0,3,0.291546,Search Firm
+0,4,1.123676,Campus
+0,2,0.33835,others
+0,2,1.64817,Applied Online
+0,3,1.893332,Campus
+0,4,2.01078,nan
+0,3,1.832641,others
+0,3,0.626067,nan
+0,4,2.000741,others
+0,3,0.577015,Campus
+0,4,0.530307,nan
+0,4,2.473876,Applied Online
+1,3,2.443439,Search Firm
+0,3,0.460786,Campus
+1,3,0.352892,nan
+0,2,1.694161,Referral
+0,3,2.071037,Applied Online
+0,2,1.28449,nan
+0,3,0.16129,nan
+1,2,0.35541,Search Firm
+0,2,0.363569,Referral
+1,4,1.226589,nan
+0,4,1.150155,Applied Online
+0,2,0.295468,Applied Online
+0,2,2.37891,others
+1,3,0.091589,others
+0,3,2.277804,Applied Online
+0,3,0.614505,nan
+0,2,1.25652,nan
+1,2,1.908554,nan
+1,4,0.973441,Applied Online
+1,3,1.842445,others
+0,3,0.76266,Applied Online
+0,2,0.769737,Applied Online
+0,3,0.522603,nan
+0,3,1.901982,others
+1,2,2.424021,Applied Online
+0,2,1.967356,Campus
+0,3,0.760193,Applied Online
+0,3,0.190383,nan
+0,3,0.272431,nan
+0,4,1.464187,nan
+0,2,1.103248,Referral
+0,3,0.679057,Referral
+1,3,0.919779,Applied Online
+1,3,0.509591,Referral
+0,3,2.304672,Campus
+1,3,0.085869,Applied Online
+0,3,2.084608,Referral
+1,4,2.294432,nan
+0,3,0.992737,nan
+0,4,0.506218,Applied Online
+0,4,1.871956,Applied Online
+0,3,2.087028,nan
